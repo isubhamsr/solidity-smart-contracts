@@ -1,0 +1,87 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_occupent",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_amount",
+						"type": "uint256"
+					}
+				],
+				"name": "Occupy",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"06HotelManagemnt.sol": "HotelManagement"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"06HotelManagemnt.sol": {
+			"keccak256": "0x6dc8aeeb9248971f89cf3ec10f122a93d73a3d34fe2d413a87c1b483e7fad11d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b36cbe1a8b9d0f277ce0024b0e48c9601fd2d985261d5f954964c7193c9da584",
+				"dweb:/ipfs/QmYvz3TNLC9fL9irRHCW9Y8Gy2MPvfnbakohtebBiYRoRT"
+			]
+		}
+	},
+	"version": 1
+}
