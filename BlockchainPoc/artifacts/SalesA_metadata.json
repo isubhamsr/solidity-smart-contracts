@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BlockchainPoc/SalesAgreement.sol": "SalesA"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BlockchainPoc/SalesAgreement.sol": {
+			"keccak256": "0xd2f27aa083a50774c7667cdb02d63e2d367825996de687be7994c3851fd6bb01",
+			"urls": [
+				"bzz-raw://b8647f3a48f67a13fea9eac6216fa974674f8f8dae36fb40dc9f20c410d07afe",
+				"dweb:/ipfs/Qmcex7S5zyjEqt8GW9PfviJv4puxGWonzedaaLB3YJ3kEP"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"06HotelManagemnt.sol": "HO"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"06HotelManagemnt.sol": {
+			"keccak256": "0xce57de677d898e785eb57e42361da660ecf27a5bcdd76bd846b3a60250d0735e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a48a96017b503d93263a7b2a26d660f22ec44d4e5d7bca79af354bd64856bdb9",
+				"dweb:/ipfs/QmaJkVJfr6puLBXU3PGcBEj75r8PxszQFGdQNaud2EqUkA"
+			]
+		}
+	},
+	"version": 1
+}

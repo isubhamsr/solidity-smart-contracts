@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BlockchainPoc/Manufacturer.sol": "Manu"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BlockchainPoc/Manufacturer.sol": {
+			"keccak256": "0x8a34f7f69f791d17a84e6c76a1698586b1074a314607900620ae7ddfd422eadb",
+			"urls": [
+				"bzz-raw://8b571370ae654d80be848ee3a59f2de254164ad8ad217358e2c58a8018ae7604",
+				"dweb:/ipfs/QmekwQHjKwy5aTRH5tCkimMRjTjo4MNkjHzxfvfX7ksxa8"
+			]
+		}
+	},
+	"version": 1
+}
