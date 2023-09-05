@@ -11,40 +11,49 @@
 				"type": "constructor"
 			},
 			{
-				"anonymous": false,
 				"inputs": [
 					{
-						"indexed": false,
 						"internalType": "address",
-						"name": "_occupent",
+						"name": "payee",
 						"type": "address"
-					},
-					{
-						"indexed": false,
-						"internalType": "uint256",
-						"name": "_amount",
-						"type": "uint256"
 					}
 				],
-				"name": "Occupy",
-				"type": "event"
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "owner",
-				"outputs": [
+				"inputs": [
 					{
-						"internalType": "address payable",
+						"internalType": "address",
 						"name": "",
 						"type": "address"
+					}
+				],
+				"name": "deposits",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
 				"type": "function"
 			},
 			{
-				"stateMutability": "payable",
-				"type": "receive"
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "payee",
+						"type": "address"
+					}
+				],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -60,7 +69,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"06HotelManagemnt.sol": "HotelManagement"
+			"Escrow.sol": "Escrow"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -74,12 +83,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"06HotelManagemnt.sol": {
-			"keccak256": "0x6dc8aeeb9248971f89cf3ec10f122a93d73a3d34fe2d413a87c1b483e7fad11d",
+		"Escrow.sol": {
+			"keccak256": "0x4caca03912de5f9e060a2086b45fabddcc199f245dfad44a0c93bc2d3a3ea227",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b36cbe1a8b9d0f277ce0024b0e48c9601fd2d985261d5f954964c7193c9da584",
-				"dweb:/ipfs/QmYvz3TNLC9fL9irRHCW9Y8Gy2MPvfnbakohtebBiYRoRT"
+				"bzz-raw://8326273b0605706df4737a7238cca099b6eed9add4bcb647536d104786bf0c3c",
+				"dweb:/ipfs/QmbeUXfqrSy4N4anjzbBGKgCQ8g7E74RrSNYmKNRtSbEyU"
 			]
 		}
 	},

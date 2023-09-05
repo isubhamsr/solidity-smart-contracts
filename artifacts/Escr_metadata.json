@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Escrow.sol": "Name"
+			"Escrow.sol": "Escr"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"Escrow.sol": {
-			"keccak256": "0xe6c12625091e64e1524c236444729dc4b5bdc8990de5e14cc6d2936c849b3def",
+			"keccak256": "0x8e30e9f76d2e4bc8bb2040fb0db23e2203a9fcc059a6241b04ad86dd1227633a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://23dcbca4f1c3f173d8726a07529a23c1b73b116e738af22f2b9c8fe8ba11a6e3",
-				"dweb:/ipfs/Qme9qT5aJZvrsKaJwp5FjgwmXfj8kykW1Q7wgqi8BfNBPL"
+				"bzz-raw://8a6e97c92b8bede301abd4b397d4a161a5a0014d2596fb31426d342c324c77c0",
+				"dweb:/ipfs/QmZFs2d1gN2PYrdc5PZkNkd7i2xFAS4WgGfkxQ17bdSWYH"
 			]
 		}
 	},
