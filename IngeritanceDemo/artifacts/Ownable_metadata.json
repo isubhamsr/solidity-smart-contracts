@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IngeritanceDemo/Ownable.sol": "Ownable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IngeritanceDemo/Ownable.sol": {
+			"keccak256": "0xae4d29b8ac872c6ce532091c6dfdd134b60f1881493df298bf095009cf005842",
+			"urls": [
+				"bzz-raw://cfe5bbddb8da491be21aa53c58e46996e64c2e32b1a5de76e654c56324f96bca",
+				"dweb:/ipfs/QmY6SHiUCK3VkL4jRELffEU8tCPcvckEKCEQ6DRdfMyVis"
+			]
+		}
+	},
+	"version": 1
+}

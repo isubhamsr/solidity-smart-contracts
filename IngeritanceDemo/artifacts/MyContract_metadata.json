@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_secret",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getSecret",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IngeritanceDemo/MyContract.sol": "MyContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IngeritanceDemo/MyContract.sol": {
+			"keccak256": "0x951b42a6421cadb1c0b9d6f4efe9bd5e5970b88e02489d34b9d37d66b2d66092",
+			"urls": [
+				"bzz-raw://011fc7aa6e36ca1e731b01f4a7d35af0f894c1eba4df548974bd3c5e6457049a",
+				"dweb:/ipfs/QmaGsP7XnnFcEhPGjzrZcuWCXztznk1zie9Tb65H2pWas2"
+			]
+		},
+		"IngeritanceDemo/Ownable.sol": {
+			"keccak256": "0xae4d29b8ac872c6ce532091c6dfdd134b60f1881493df298bf095009cf005842",
+			"urls": [
+				"bzz-raw://cfe5bbddb8da491be21aa53c58e46996e64c2e32b1a5de76e654c56324f96bca",
+				"dweb:/ipfs/QmY6SHiUCK3VkL4jRELffEU8tCPcvckEKCEQ6DRdfMyVis"
+			]
+		},
+		"IngeritanceDemo/SecretValut.sol": {
+			"keccak256": "0xa0a451d958a31dd5433f39171bc32cf56c0f5cfc24b3c2a6742cdd6abbafff24",
+			"urls": [
+				"bzz-raw://17a44b255f9cacfbb1debdfa19c230ed8e6c54e0d90be51d885f67b3fbee1e4c",
+				"dweb:/ipfs/QmdVyhsgyb6LaBymu7eQD6zZPvAonf1QhGvV1KptHmgraX"
+			]
+		}
+	},
+	"version": 1
+}

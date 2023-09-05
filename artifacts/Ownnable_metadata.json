@@ -4,7 +4,13 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +24,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"07InheritanceP.sol": "Name"
+			"07InheritanceP.sol": "Ownnable"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +39,11 @@
 	},
 	"sources": {
 		"07InheritanceP.sol": {
-			"keccak256": "0x8dac6923870bacec0eb9d29252c9a786cf9c653f3685e365554b135aaf14422e",
+			"keccak256": "0x4d35b989d9926ed5a8447c02ea97689060c49d62233254e3ffeeb1303422f4af",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2de067f1197aa743270610c38e2b9a89d43d41dad6824a19edbab9131cf97a42",
-				"dweb:/ipfs/QmVe595Lx7RbpoDTmN3wrt97WUeUz5YBKZ6dhhxLiZX8RS"
+				"bzz-raw://0cb0e041ea904264a49470bb5d0dc4375fd7a7699fe46f8433dacf6fb64fc0ac",
+				"dweb:/ipfs/QmNzcaTqEAuMD6VRZg6PSa65KE6VsCyKGoLmzs76Q6BKXd"
 			]
 		}
 	},

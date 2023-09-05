@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"07InheritanceP.sol": "Name"
+			"07InheritanceP.sol": "Inh"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"07InheritanceP.sol": {
-			"keccak256": "0x8dac6923870bacec0eb9d29252c9a786cf9c653f3685e365554b135aaf14422e",
+			"keccak256": "0xfd67f2078cfd212ab49cfa6ee29b4c66929fd95dd4947f8fc5f7a0c367d4f253",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2de067f1197aa743270610c38e2b9a89d43d41dad6824a19edbab9131cf97a42",
-				"dweb:/ipfs/QmVe595Lx7RbpoDTmN3wrt97WUeUz5YBKZ6dhhxLiZX8RS"
+				"bzz-raw://3c296d1c1cffcec4b705863446720f533ede80d582e70693f941c1ad98d1e03f",
+				"dweb:/ipfs/QmVtKphDej23zHuVqSCwJb512W9KQ5SLzsX3npBaG3wFnF"
 			]
 		}
 	},

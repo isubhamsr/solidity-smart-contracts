@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IngeritanceDemo/SecretValut.sol": "Secre"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IngeritanceDemo/SecretValut.sol": {
+			"keccak256": "0x59bbb849fc8ce5df7931141b35349334adda7aecac85b9e24134613ba1241da9",
+			"urls": [
+				"bzz-raw://0e0a108b8809c112c8476d39bbd12fb40b15b19d26ffa48970c8d6cc1ac3164a",
+				"dweb:/ipfs/QmWTCncHtZAC9Rnw9B23QSwvwwqBs2DX2bH7Ag6k8iTjM3"
+			]
+		}
+	},
+	"version": 1
+}
